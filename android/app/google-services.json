@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "260515434120",
+    "firebase_url": "https://finalyoga-f8d29-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finalyoga-f8d29",
+    "storage_bucket": "finalyoga-f8d29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260515434120:android:a718946704cc9f9d99993d",
+        "android_client_info": {
+          "package_name": "com.example.yogaadminv8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVQU2u-zza1IeeNucjlL_zRLnTTNJ98A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260515434120:android:10c63c51de5f76e699993d",
+        "android_client_info": {
+          "package_name": "com.example.yogacustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVQU2u-zza1IeeNucjlL_zRLnTTNJ98A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
